@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maity\\source\\repos\\ChatBotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F214450D-5EB3-4B50-9047-70BA5952CC2D}|ChatBotApp\\ChatBotApp.csproj|c:\\users\\maity\\source\\repos\\chatbotapp\\chatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F214450D-5EB3-4B50-9047-70BA5952CC2D}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maity\\source\\repos\\ChatBotApp\\ChatBotApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatBotApp\\Program.cs",
+              "ToolTip": "C:\\Users\\maity\\source\\repos\\ChatBotApp\\ChatBotApp\\Program.cs",
+              "RelativeToolTip": "ChatBotApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:07:17.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
